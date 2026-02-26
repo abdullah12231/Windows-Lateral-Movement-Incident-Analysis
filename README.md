@@ -24,3 +24,16 @@ Detection can be achieved by monitoring:
 - Importance of monitoring service creation events
 - Correlating 4624 + 7045 + Sysmon Event ID 1
 - Detecting administrative lateral movement activity
+
+
+## Event ID 4624 – Network Logon
+![4624 Logon](Project_Screenshots/4624_EVENTID.png)
+
+## Event ID 7045 – Service Creation
+![7045 Service](Project_Screenshots/7045_EVENTID.png)
+
+## Sysmon Event ID 1 – Process Execution
+![Sysmon Event 1](Project_Screenshots/SYSMON_EVENTID_1.png)
+
+## PsExec Remote Terminal
+![PsExec Terminal](Project_Screenshots/PSEXEC_TERMINAL.png)
