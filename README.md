@@ -30,7 +30,7 @@ Detection can be achieved by monitoring:
 ![4624 Logon]([Project_Screenshots/4624.png](https://github.com/abdullah12231/Windows-Lateral-Movement-Incident-Analysis/blob/main/Project_Screenshots/4624%20EVENTID.png?raw=true))
 
 ## Event ID 7045 – Service Creation
-![7045 Service](Project_Screenshots/7045.png)
+![7045 Service]([Project_Screenshots/7045.png](https://github.com/abdullah12231/Windows-Lateral-Movement-Incident-Analysis/blob/main/Project_Screenshots/7045%20EVENTID.png?raw=true))
 
 ## Sysmon Event ID 1 – Process Execution
 ![Sysmon Event 1](Project_Screenshots/SYSMON.png)
