@@ -27,7 +27,7 @@ Detection can be achieved by monitoring:
 
 
 ## Event ID 4624 – Network Logon
-![4624 Logon](Project_Screenshots/4624.png)
+![4624 Logon]([Project_Screenshots/4624.png](https://github.com/abdullah12231/Windows-Lateral-Movement-Incident-Analysis/blob/main/Project_Screenshots/4624%20EVENTID.png?raw=true))
 
 ## Event ID 7045 – Service Creation
 ![7045 Service](Project_Screenshots/7045.png)
