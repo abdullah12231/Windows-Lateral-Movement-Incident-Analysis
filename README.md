@@ -1,5 +1,11 @@
 # PsExec Lateral Movement Incident Analysis
 
+## Executive Summary
+
+This project demonstrates the detection and investigation of PsExec-based lateral movement between two Windows systems. 
+
+By correlating Windows Security Event Logs (4624, 7045) and Sysmon telemetry (Event ID 1), the attack chain was successfully reconstructed and mapped to MITRE ATT&CK techniques.
+
 # Scenario
 - This lab simulates a lateral movement attack using PsExec between two Windows machines (WIN-ATTACK → WIN-VICTIM).
 The objective was to detect and analyze the activity using Windows Event Logs and Sysmon.
