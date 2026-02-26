@@ -27,13 +27,13 @@ Detection can be achieved by monitoring:
 
 
 ## Event ID 4624 – Network Logon
-![4624 Logon](screenshots/4624_EVENTID.png)
+![4624 Logon](screenshots/4624.png)
 
 ## Event ID 7045 – Service Creation
-![7045 Service](screenshots/7045_EVENTID.png)
+![7045 Service](screenshots/7045.png)
 
 ## Sysmon Event ID 1 – Process Execution
-![Sysmon Event 1](screenshots/SYSMON_EVENTID_1.png)
+![Sysmon Event 1](screenshots/sysmon_event1.png)
 
 ## PsExec Remote Terminal
-![PsExec Terminal](screenshots/PSEXEC_TERMINAL.png)
+![PsExec Terminal](screenshots/psexec_terminal.png)
