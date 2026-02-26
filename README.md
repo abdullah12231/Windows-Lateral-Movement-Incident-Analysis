@@ -6,6 +6,14 @@ This project demonstrates the detection and investigation of PsExec-based latera
 
 By correlating Windows Security Event Logs (4624, 7045) and Sysmon telemetry (Event ID 1), the attack chain was successfully reconstructed and mapped to MITRE ATT&CK techniques.
 
+
+## Lab Architecture
+
+- WIN-ATTACK (Source machine)
+- WIN-VICTIM (Target machine)
+- Lateral movement via SMB (PsExec)
+- Log analysis using Event Viewer and Sysmon
+
 # Scenario
 - This lab simulates a lateral movement attack using PsExec between two Windows machines (WIN-ATTACK → WIN-VICTIM).
 The objective was to detect and analyze the activity using Windows Event Logs and Sysmon.
